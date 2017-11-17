@@ -1,0 +1,31 @@
+.body-content-bg{
+    width:100%;
+    padding-bottom:200px;
+}
+.body-content{
+    width:87%;
+    min-width: 1300px;
+    margin:0 auto;
+    color: #fff;
+    padding-left:320px;
+}
+.body-content h2{
+    font-size: 35px;
+    line-height: 40px;
+    color: #fff;
+    font-weight:300;
+    margin-bottom:30px;
+    margin-left:80px;
+}
+.body-content p{
+    width:1160px;
+    line-height:26px;
+    font-size: 16px;
+    color: hsla(0,0%,100%,.7);
+    text-indent: 2em;
+}
+.body-show-bg{
+    margin-top:80px;
+}#b_box{
+     top:230px;
+ }

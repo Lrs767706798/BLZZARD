@@ -1,0 +1,193 @@
+body{
+    background: #040404 url("../images/bg-top.jpg") 50% 0 no-repeat;
+    color: #4a4a4a;
+}
+.content{
+    width:100%;
+}
+.cont-top,.cont-head{
+    width:1112px;
+    margin:0 auto;
+}
+.cont-top img{
+    margin:55px 0 50px 0;
+    position: relative;
+    left:-20px;
+}
+.cont-head-left{
+    float: left;
+}
+.cont-head-left a:first-of-type{
+    font-size: 28px;
+    display: block;
+    position: relative;
+    left:10px;
+    line-height:42px;
+    color: #a2b9c2;
+    width:645px;
+}
+.cont-head-left a:first-of-type span{
+    color: #566b73;
+    font-size: 14px;
+    border:1px solid #3a4c53;
+    padding: 2px 5px;
+    margin-left:10px;
+    position: relative;
+    top: -5px;
+    border-radius: 5px;
+}
+.cont-head-left a:first-of-type:hover{
+     color: #fff;
+}
+.cont-head-left a:first-of-type:hover span{
+    background-color: rgb(58,76,83);
+      color: rgb(147,189,206);
+}
+.cont-head-left a:nth-of-type(2){
+    font-size: 13px;
+    margin:10px 10px;
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 8px 15px;
+    float: left;
+    border-radius: 3px;
+    box-shadow: 0 0 4px 2px #202325;
+    background: #0081b4;
+}
+.cont-head-left a:nth-of-type(2):hover{
+    background: #008dc5;
+}
+.cont-head-left a:nth-of-type(3){
+    color: #00b6ff;
+    outline:none;
+    font-size: 13px;
+    margin:18px 0 0 0 ;
+    float: left;
+}
+.cont-head-left a:nth-of-type(3):hover{
+    color: #fff;
+}
+.cont-head-right{
+    float: right;
+    background:url("../images/app-screen-small.png") no-repeat 0 0 ;
+    width:256px;
+    position: relative;
+    height:176px;
+    cursor: pointer;
+    display: block;
+    top:-30px;
+}
+.cont-head-right a{
+    position: absolute;
+    display: block;
+    bottom:-10px;
+    width: 256px;
+    text-align: center;
+    font-size: 14px;
+    color: #00b6ff;
+}
+.cont-head-right:hover {
+    background: url("../images/app-screen-small.png") no-repeat -256px 0;
+}
+.cont-head-right:hover a{
+    color: #fff;
+}
+.cont-cont-bg{
+    width:100%;
+    background: #d3d1ce url("../images/bg-middle.jpg") top center repeat-x;
+    border-bottom: 4px solid #777674;
+}
+.cont-cont{
+    width: 990px;
+    margin: 0 auto;
+    left:-55px;
+    position: relative;
+    height:417px;
+    margin-top:90px;
+}
+.cont-cont ul li{
+    float: left;
+    cursor: pointer;
+    outline:none;
+    border: 1px solid #3E414A;
+    left: 6px;
+    top: -65px;
+    width: 162px;
+    height: 392px;
+    display: block;
+    position: absolute;
+    text-align: left;
+    padding: 0;
+    font-size: 16px;
+
+}
+.cont-cont ul li div{
+    line-height:50px;
+    text-align: center;
+    font-size: 14px;
+    color: #B2BAC7;
+}
+.cont-cont ul li:first-of-type{
+    background: url("../images/wow-cn.png") 0 0 no-repeat;
+    left:0;
+}
+.cont-cont ul li:first-of-type:hover{
+    background: url("../images/wow-cn.png") -248px 0 no-repeat;
+    left:0;
+}
+.cont-cont ul li:nth-of-type(2){
+    background: url("../images/diablo3-cn.png") 0 0 no-repeat;
+    left:190px;
+}
+.cont-cont ul li:nth-of-type(2):hover{
+    background: url("../images/diablo3-cn.png") -248px 0 no-repeat;
+    left:190px;
+}
+.cont-cont ul li:nth-of-type(3){
+    background: url("../images/starcraft2-cn.png") 0 0 no-repeat;
+    left:380px;
+}
+.cont-cont ul li:nth-of-type(3):hover{
+    background: url("../images/starcraft2-cn.png") -248px 0 no-repeat;
+    left:380px;
+}
+.cont-cont ul li:nth-of-type(4){
+    background: url("../images/heroes-cn.png") 0 0 no-repeat;
+    left:570px;
+}
+.cont-cont ul li:nth-of-type(4):hover{
+    background: url("../images/heroes-cn.png") -248px 0 no-repeat;
+    left:570px;
+}
+.cont-cont ul li:nth-of-type(5){
+    background: url("../images/hearthstone-cn.png") 0 0 no-repeat;
+    left:760px;
+}
+.cont-cont ul li:nth-of-type(5):hover{
+    background: url("../images/hearthstone-cn.png") -248px 0 no-repeat;
+    left:760px;
+}
+.cont-cont ul li:nth-of-type(6){
+    background: url("../images/overwatch-cn.png") 0 0 no-repeat;
+    left:950px;
+}
+.cont-cont ul li:nth-of-type(6):hover{
+    background: url("../images/overwatch-cn.png") -248px 0 no-repeat;
+    left:950px;
+}
+.foot{
+    background-color: #000;
+}
+
+.full-logo{
+    border: solid 10px rgba(0, 0, 0,.7);
+    border-bottom: solid 10px rgba(255, 255, 255, 0.15);
+}
+.full-logo1{
+    border: solid 10px rgba(0, 0, 0,.7);
+    border-bottom: solid 10px rgba(255, 255, 255, 0.15);
+}
+
+
+
