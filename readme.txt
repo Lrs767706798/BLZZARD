@@ -1,3 +1,3 @@
+PC端暴雪游戏官方网站
 ȫд
-https://www.battlenet.com.cn/zh/
-just clone
+原网站网址：https://www.battlenet.com.cn/zh/
